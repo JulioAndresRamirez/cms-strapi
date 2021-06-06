@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_acceso_accesos",
+  "info": {
+    "name": "Acceso",
+    "icon": "people-carry"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "excerpt": {
+      "type": "string"
+    },
+    "background": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}
