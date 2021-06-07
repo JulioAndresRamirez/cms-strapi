@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/emm-what",
+      "handler": "emm-what.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/emm-what",
+      "handler": "emm-what.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/emm-what",
+      "handler": "emm-what.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

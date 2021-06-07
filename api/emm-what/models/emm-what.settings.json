@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "emm_whats",
+  "info": {
+    "name": "Emm-what"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sluginfo": {
+      "type": "uid"
+    }
+  }
+}
